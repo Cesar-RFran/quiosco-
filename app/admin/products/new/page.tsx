@@ -10,7 +10,8 @@ export default function CreateProductPage() {
 
     <AddProductForm>
 
-      <ProductForm/>
+      <ProductForm
+      />
     </AddProductForm>
     
     </>
