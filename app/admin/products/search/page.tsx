@@ -1,6 +1,5 @@
 import Heading from '@/components/ui/Heading';
 import { prisma } from '@/src/lib/prisma';
-import { products } from '../../../../prisma/data/products';
 import ProductTable from '@/components/products/ProductsTable';
 import ProductSearch from '@/components/products/ProductSearch';
 
